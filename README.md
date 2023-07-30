@@ -19,7 +19,7 @@ TODO
 
 Notes
 ==========
-Requires xfreerdp to run on Linux 
-increase or reduce workers based on CPU power available if workers are too high password will fail
+- Requires xfreerdp to run on Linux <br>
+- increase or reduce workers based on CPU power available if workers are too high password will fail
 
 <img src="https://github.com/darkseid-security/ISPY/blob/main/Screenshots/ISPY-session.png">
