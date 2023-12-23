@@ -7,7 +7,7 @@ import socket,sys
 print(Fore.RED + """
 ╦╔═╗╔═╗╦ ╦
 ║╚═╗╠═╝╚╦╝
-╩╚═╝╩   ╩ """ + Fore.WHITE + "Multi-Cored RDP Bruteforcer V1.1" + Fore.RESET)
+╩╚═╝╩   ╩ """ + Fore.WHITE + "Multi-Cored RDP Bruteforcer V1.1 Developed by " + Fore.GREEN + "ENVY IT GROUP" + Fore.RESET)
 
 # Configuration
 host = '10.1.1.41'
