@@ -8,10 +8,9 @@ Features
 - Multi Threaded Bruteforcer using concurrent.futures
 - Set maxmium number of workers 
 - Simple UI
-- Progress bar implemented for buruteforce attempts
-- When password is cracked you will be presented with RDP session
+- Progress bar implemented for bruteforce attempts
 - [*Experimental Feature] Detects BlueKeep Exploit
-- When password is cracked close session for program to stop bruteforcing
+- [*New feature] Authenticate but don't connect
 
 TODO
 ==========
@@ -19,7 +18,7 @@ TODO
 
 Notes
 ==========
-- Requires xfreerdp to run on Linux <br>
-- increase or reduce workers based on CPU power available if workers are too high password will fail
+- Requires xfreerdp to run
+- [*Removed] When password is cracked you will be presented with RDP session
 
 <img src="https://github.com/darkseid-security/ISPY/blob/main/Screenshots/ISPY-session.png">
