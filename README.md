@@ -20,5 +20,3 @@ Notes
 ==========
 - Requires xfreerdp to run
 - [*Removed] When password is cracked you will be presented with RDP session
-
-<img src="https://github.com/darkseid-security/ISPY/blob/main/Screenshots/brute.png">
